@@ -4,7 +4,6 @@
 # Pliki zawierają wartości tablicy, z debugu. 
 # Jako argument należy podać nazwę pliku.
 # Skrypt jest niedoskonały i niebezpieczny! Zachowaj ostrożność!
-# autor: Piotr Knutel piknut@linux.pl
 
 # Użyte polecenia z uwzględnieniem parametrów: 
 # - cut pozostawia tylko drugą kolumnę pliku CSV,
